@@ -1,0 +1,25 @@
+.form-container {
+    padding: 5%;
+}
+
+.form-field {
+    margin: 1rem;   
+}
+
+label {
+    display: flex;
+    padding-bottom: 10px;
+}
+
+input {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.button-submit {
+    margin: 1rem;
+    padding: 10px;
+    border-radius: 5px;
+    color: aliceblue;
+    background-color: black;
+}
